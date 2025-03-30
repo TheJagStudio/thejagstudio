@@ -14,7 +14,15 @@
 - ⚡ Fun fact **Never look forward to me.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="
+    background: white;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto;
+    grid-gap: 3px;
+    box-shadow: inset 0px 0px 47px -18px rgba(0,0,0,0.75);
+    border-radius: 10px;
+">
 <a href="https://leetcode.com/u/jagratpatel99/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/jagratpatel99/" height="30" width="40" /></a>
 </p>
 
