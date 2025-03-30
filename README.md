@@ -7,6 +7,8 @@ logos{
     grid-gap: 3px;
     box-shadow: inset 0px 0px 47px -18px rgba(0,0,0,0.75);
     border-radius: 10px;
+    margin: auto;
+    place-items: center;
 }
 </style>
 <h1 align="center">Hi 👋, I'm Jagrat Patel</h1>
