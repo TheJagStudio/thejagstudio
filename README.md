@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Flutter, NextJs and Solidity**
 
-- 👨‍💻 All of my projects are available at [https://jagratpatel.tech/](https://jagratpatel.tech/)
+- 👨‍💻 All of my projects are available at [https://thejagstudio.github.io/jagratpatel/](https://thejagstudio.github.io/jagratpatel/)
 
 - 💬 Ask me about **I have a strong background in Python development and full-stack web and app development. I am well-versed in various software tools like Adobe Suite, Blender, and Unreal Engine, which makes me a versatile developer capable of handling a variety of projects. Moreover, my ability to work from home has helped me become self-disciplined and efficient in managing my time and responsibilities. I have worked on many projects, which has given me a broad range of skills and expertise. I am experienced in frontend development, backend development, database management, user interface design, and more. Overall, I believe that my technical skills and work experience make me a valuable asset to any team or project. I am confident that I can contribute to the success of any organization that values innovation and creativity. Additionally, my ability to work remotely can make me an attractive candidate for many companies looking for a dedicated and reliable developer.**
 
 - 📫 How to reach me **jagratpatel99@gmail.com**
 
-- 📄 Know about my experiences [https://jagratpatel.tech/](https://jagratpatel.tech/)
+- 📄 Know about my experiences [https://thejagstudio.github.io/jagratpatel/](https://thejagstudio.github.io/jagratpatel/)
 
 - ⚡ Fun fact **Never look forward to me.**
 
